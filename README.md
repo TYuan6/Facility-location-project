@@ -12,6 +12,10 @@ Return -a kml file, based on the radius of coverage user enters.
 Keyhole Markup Language (KML) is an XML notation for expressing geographic annotation and visualization within Internet-based, two-dimensional maps and three-dimensional Earth browsers. KML was developed for use with Google Earth.
 
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/t119y/Facility-location-project/blob/master/Facility%20location%20project/Facilities%20location%20demo1.PNG" width="350"/>
+</p>
+
+<p align="right">
+  <img src="https://github.com/t119y/Facility-location-project/blob/master/Facility%20location%20project/Facilities%20location%20demo2.PNG" width="350"/>
 </p>
