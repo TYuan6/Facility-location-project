@@ -1,5 +1,26 @@
 # Author : Yuan Tu
 # 
+'''
+This program 
+
+Input:
+     Ask user for a radius of coverage.
+
+Output:
+    
+
+
+Modules :
+    string
+
+Method: 
+
+Author:Yuan Tu
+
+'''
+
+
+
 
 '''phase 1
 
