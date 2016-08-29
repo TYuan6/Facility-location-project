@@ -12,7 +12,7 @@ Modules :
     string
     
 Method:
-    First of all, read the geographic data from a file and store the data in an appropriate data structure.
+    First of all, data preprocessing, read the geographic data from a file and store the data in an appropriate data structure.
     
     Then, solve the facility location problm on this geopraphic data set
     
