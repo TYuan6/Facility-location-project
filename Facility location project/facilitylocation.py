@@ -1,21 +1,28 @@
-# Author : Yuan Tu
-# 
 '''
-This program 
+    
+This is a project for solving facility location problems.
 
 Input:
-     Ask user for a radius of coverage.
-
+    Ask user for a radius of coverage.
 Output:
-    
-
+    A kml file, based on the radius of coverage user enters. 
+    Visualized the solution in Google Earth.
 
 Modules :
     string
-
-Method: 
-
+    
+Method:
+    First of all, read the geographic data from a file and store the data in an appropriate data structure.
+    
+    Then, solve the facility location problm on this geopraphic data set
+    
+    Finally, output the solution to the facility locaton problem in a format that can be visualized
+    in a mapping software such as google maps.
+    
+    
 Author:Yuan Tu
+
+
 
 '''
 
